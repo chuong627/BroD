@@ -1,0 +1,4 @@
+[Mon May 30 02:47:50.988978 2016] [:error] [pid 17709] [client 192.168.1.10:12166] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_, referer: http://demo.local/wp-admin/setup-config.php?step=1
+[Mon May 30 02:48:07.333752 2016] [:error] [pid 17713] [client 192.168.1.10:12172] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_, referer: http://demo.local/wp-admin/setup-config.php?step=1
+[Mon May 30 02:48:37.938780 2016] [:error] [pid 17706] [client 192.168.1.10:12177] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_, referer: http://demo.local/wp-admin/setup-config.php?step=1
+[Mon May 30 02:49:17.200755 2016] [:error] [pid 17710] [client 192.168.1.10:12181] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_, referer: http://demo.local/wp-admin/setup-config.php?step=1
