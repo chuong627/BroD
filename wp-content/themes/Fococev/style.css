@@ -1,0 +1,27 @@
+/*
+Theme Name: Fococev
+Theme URI: 
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description:
+Version: 2.4
+*/
+html{margin-top:0px !important;}
+.header_container{
+	margin:0 0 0 0;
+	background-color: #12dcc7;
+	height: 50px;
+	border:0px;
+}
+.headerbar{
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color: #12dcc7;
+	height: 50px;
+	border:0px;
+	width:1000px;
+}
+.headerbar_left{height:50px;border:0px;padding-top:10px; padding-bottom:10px;}
+.headerbar_right{height:50px;border:0px;padding-top:10px; padding-bottom:10px;}
